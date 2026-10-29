@@ -18,7 +18,7 @@ Tecnologías: Next.js, React, TypeScript, Tailwind CSS, Three.js, React Three Fi
 Necesitas tener instalado [Node.js](https://nodejs.org) (versión LTS).
 
 ```powershell
-git clone https://github.com/TU-USUARIO/restaurante-3d.git
+git clone https://github.com/Varlos04/restaurante-3d.git
 cd restaurante-3d
 npm install
 npm run dev
